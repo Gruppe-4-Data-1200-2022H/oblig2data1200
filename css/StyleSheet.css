@@ -55,16 +55,6 @@ body {
     text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -2px 0 0 #000;
 }
 
-/*Tekst nederst til venstre side over bildet */
-.undertekst-nederst-venstre {
-    position: absolute;
-    bottom: 50px;
-    left: 16px;
-    font-size: 23px;
-    text-align: left;
-    font-weight: bold;
-    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -2px 0 0 #000;
-}
 
 /*Tekst nederst til venstre side over bildet */
 .undertekst-venstre-copyright {
@@ -76,4 +66,35 @@ body {
     text-transform: uppercase;
     font-weight: 600;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -2px 0 0 #000;
+}
+
+/*Hvis størrelse på skjerm er minst 1081px bred eller mer, oppretthold font størrelse */
+@media screen and (min-width: 1081px) {
+    .overst-venstre {
+        font-size: 170px;
+    }
+    .undertekst-forside {
+        font-size: 25px;
+    }
+    .undertekst-nederst-venstre {
+        font-size: 23px;
+    }
+    .undertekst-venstre-copyright {
+        font-size: 12px;
+    }
+}
+/* Hvis størrelse på skjermen er 1080px eller mindre, mink font størrelse*/
+@media screen and (max-width: 1080px){
+    .overst-venstre {
+        font-size: 85px;
+    }
+    .undertekst-forside {
+        font-size:15px;
+    }
+    .undertekst-nederst-venstre {
+        font-size: 14px;
+    }
+    .undertekst-venstre-copyright {
+        font-size: 10px;
+    }
 }
