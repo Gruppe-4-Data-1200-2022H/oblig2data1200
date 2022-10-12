@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, serif;
+    background-color: #121212;
+}
+/*Container som inneholder bilde og tekst */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/*Stor tekst over bildet */
+.overst-venstre {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size:170px;
+    text-align: left;
+    letter-spacing: -4px;
+    font-weight: bold;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
+
+}
