@@ -28,6 +28,7 @@ body {
     font-size: 30px;
     display: block;
     text-decoration: none;
+
 }
 
 .sidebar a:hover {
@@ -38,6 +39,9 @@ body {
 
 .logo-img{
     width: 200px;
+    display: block;
+    margin-bottom: 40px;
+    background: transparent;
 }
 
 .container {
