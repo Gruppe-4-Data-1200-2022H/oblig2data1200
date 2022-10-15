@@ -10,7 +10,7 @@
 
 ## Kilder
 
-[Christensen, Kindtler-Nielsen (2022, 10. oktober) Klimaendringer gjorde Egypt til en supermakt](https://historienet.no/sivilisasjoner/egyptere/klimaendringer-gjorde-egypt-til-en-supermakt) 
+[Christensen, Kindtler-Nielsen (2022, 10. oktober) * *Klimaendringer gjorde Egypt til en supermakt](https://historienet.no/sivilisasjoner/egyptere/klimaendringer-gjorde-egypt-til-en-supermakt) 
 
 [Bilder](https://historienet.no/sivilisasjoner/egyptere/klimaendringer-gjorde-egypt-til-en-supermakt)
 
