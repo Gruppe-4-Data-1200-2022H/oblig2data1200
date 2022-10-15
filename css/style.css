@@ -46,6 +46,18 @@ body {
     background: transparent;
 }
 
+.github-img{
+    width: 120px;
+    height: 49px;
+    bottom: 0;
+    position: absolute;
+    list-style-type: none;
+    padding-bottom: 1.5em;
+    padding-left: 20%;
+    display: block;
+    background: transparent;
+}
+
 /* Selve hovedområdet for content */
 .container {
     margin-left: 200px;
