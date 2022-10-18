@@ -1,7 +1,6 @@
 body {
     font-family: Arial, serif;
-    background-color: #fffff;
-
+    background-color: white;
 }
 
 /* Sidebar */
@@ -14,7 +13,6 @@ body {
     padding-top: 40px;
     background-color: #840f00;
     text-align: center;
-}
 }
 
 .sidebar div {
@@ -30,7 +28,6 @@ body {
     display: block;
     text-decoration: none;
     color: white;
-
 }
 
 .sidebar a:hover {
@@ -40,7 +37,7 @@ body {
 
 
 .logo-img{
-    width: 200px;
+    width: 190px;
     display: block;
     margin-bottom: 40px;
     background: transparent;
@@ -68,10 +65,10 @@ body {
 div.bildev {
     vertical-align: top;
     float: left;
-    margin: 0 10px 0 0;
-    padding-bottom: 2px;
+    margin: 0px 30px 20px 0;
+    padding-bottom: 0px;
     text-align: center;
-    width: 350px;
+    width: 500px;
     font-size: 11px;
     font-style: italic;
 }
@@ -83,7 +80,7 @@ div.bildeh {
     margin: 0 15px 0 0;
     padding-bottom: 2px;
     text-align: center;
-    width: 350px;
+    width: 450px;
     font-size: 11px;
     font-style: italic;
 }
@@ -100,4 +97,8 @@ img {
 .copyright-img {
     font-size: 10px;
     display: block
+}
+
+div.a {
+    line-height: 2.0;
 }
