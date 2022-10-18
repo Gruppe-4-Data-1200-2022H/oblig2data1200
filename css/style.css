@@ -1,6 +1,6 @@
 body {
     font-family: Arial, serif;
-    background-color: #fffff;
+    background-color: white;
 
 }
 
@@ -14,7 +14,6 @@ body {
     padding-top: 40px;
     background-color: #840f00;
     text-align: center;
-}
 }
 
 .sidebar div {
